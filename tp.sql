@@ -1,6 +1,6 @@
 #EX01 ====================================================================================================
 #1) Créer une base de données nommée 'entreprise'.
-
+CREATE DATABASE entreprise;
 #2) Mettre la base entreprise par défaut pour la session
 
 #3) Voir quel encodage et collation sont utilisés dans cette base
